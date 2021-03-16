@@ -43,13 +43,12 @@ const TempApp = () => {
 
   return (
     <>
-      <div class="app-wrap">
+      <div className="app-wrap">
         <header>
           <input
             onChange={InputEvent}
             type="text"
-            autocomplete="off"
-            class="search-box"
+            className="search-box"
             placeholder="Search for a city..."
           />
         </header>
@@ -58,18 +57,18 @@ const TempApp = () => {
           <p>No Data Found</p>
         ) : (
           <main>
-            <section class="location">
-              <div class="city">{search}</div>
-              <div class="date">{getDay()}</div>
+            <section className="location">
+              <div className="city">{search}</div>
+              <div className="date">{getDay()}</div>
             </section>
 
-            <div class="current">
-              <div class="temp">
+            <div className="current">
+              <div className="temp">
                 {city.temp}
                 <span>°Cel</span>
               </div>
-              {/* <div class="weather">Sunny</div> */}
-              <div class="hi-low">
+              {/* <div className="weather">Sunny</div> */}
+              <div className="hi-low">
                 Min : {city.temp_min}°cel | Max : {city.temp_max}°cel
               </div>
             </div>
