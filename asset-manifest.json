@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/findweather/static/css/main.f731cf15.chunk.css",
+    "main.js": "/findweather/static/js/main.e078ba61.chunk.js",
+    "main.js.map": "/findweather/static/js/main.e078ba61.chunk.js.map",
+    "runtime-main.js": "/findweather/static/js/runtime-main.af01f2b6.js",
+    "runtime-main.js.map": "/findweather/static/js/runtime-main.af01f2b6.js.map",
+    "static/js/2.155836d6.chunk.js": "/findweather/static/js/2.155836d6.chunk.js",
+    "static/js/2.155836d6.chunk.js.map": "/findweather/static/js/2.155836d6.chunk.js.map",
+    "static/js/3.005591d2.chunk.js": "/findweather/static/js/3.005591d2.chunk.js",
+    "static/js/3.005591d2.chunk.js.map": "/findweather/static/js/3.005591d2.chunk.js.map",
+    "index.html": "/findweather/index.html",
+    "static/css/main.f731cf15.chunk.css.map": "/findweather/static/css/main.f731cf15.chunk.css.map",
+    "static/js/2.155836d6.chunk.js.LICENSE.txt": "/findweather/static/js/2.155836d6.chunk.js.LICENSE.txt",
+    "static/media/style.css": "/findweather/static/media/bg.10c90012.jpg",
+    "static/media/logo.6ce24c58.svg": "/findweather/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.af01f2b6.js",
+    "static/js/2.155836d6.chunk.js",
+    "static/css/main.f731cf15.chunk.css",
+    "static/js/main.e078ba61.chunk.js"
+  ]
+}
