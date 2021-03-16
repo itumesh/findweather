@@ -16,7 +16,7 @@ const TempApp = () => {
       const resJson = await response.json();
 
       setCity(resJson.main);
-      console.log(resJson);
+      console.log(city);
     };
 
     fetchApi();
